@@ -142,6 +142,12 @@ Data breach: ABP Live, CyberSRC
 
 Public sentiment via scraped reviews from IndiaCustomerCare.com
 
+📱 Mobile Application (Prototype)
+You can find the mobile UI + logic for the Rapido 2.0 app inside the [`mobile-app/`](./rapidomobileapplicationsourcecode zip file)
+
+> Includes the redesigned navy blue UI, SOS integration, and dual UX flow for PwD and regular users.
+
+
 🙌 Acknowledgements
 
 Built with passion by Deepak Patro
